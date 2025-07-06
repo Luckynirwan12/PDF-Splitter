@@ -1,6 +1,6 @@
 # PDF Splitter
 
-## Description
+## 📝 Description
 A simple Python script to split a PDF file into two parts at a specific page number using the PyPDF2 library.
 
 ## 🚀 Features
