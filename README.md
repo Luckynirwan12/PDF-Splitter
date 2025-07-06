@@ -28,7 +28,7 @@ The script takes a single PDF file as input. You need to specify:
   
 Example:
 
-        /content/Research.pdf
+    /content/Research.pdf
 
 - The page number where you want to split the file.
 
